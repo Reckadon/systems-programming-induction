@@ -2,16 +2,16 @@
 Writups for IITGN's Systems Programming Club Induction Contest
 <ul>
   <li>
-    <a href="./BoomBoom.md">Boom Boom</a>
+    <a href="./writups/BoomBoom.md">Boom Boom</a>
   </li>
   <li>
-    <a href="./StrangeImage.md">Strange Image</a>
+    <a href="./writups/StrangeImage.md">Strange Image</a>
   </li>
   <li>
-    <a href="./BreakMyLimits.md">Break My Limits</a>
+    <a href="./writups/BreakMyLimits.md">Break My Limits</a>
   </li>
   <li>
-    <a href="./WhoUsesTheComputer.md">Who Uses the Computer</a>
+    <a href="./writups/WhoUsesTheComputer.md">Who Uses the Computer</a>
   </li>
   </li>
 </ul>
